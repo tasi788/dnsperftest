@@ -13,6 +13,7 @@ Includes by default:
  * AdGuard
  * Neustar
  * Comodo
+ * Hinet
 
 # Required 
 
